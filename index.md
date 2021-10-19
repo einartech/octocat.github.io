@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [PHP - 1](https://einartech.github.io/filesystem-explorer/#projectManagement-bbenalia)
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **Laravel and Php**
 
 - 👨‍💻 All of my projects are available at [web](web)
 
